@@ -37,5 +37,9 @@ export function humanNumber(num: number, options?: HumanNumberOptions) {
     }
   }
 
+  if (num < 0) {
+    shortNumStr = `-${shortNumStr}`;
+  }
+
   return `${shortNumStr}${shortName}`;
 }
