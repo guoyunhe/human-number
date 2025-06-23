@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2 - 2025-06-23
+
+- Added LICENSE
+
 ## 1.1.1 - 2025-06-22
 
 - Updated README
