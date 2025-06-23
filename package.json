@@ -20,6 +20,7 @@
     "name": "Guo Yunhe",
     "email": "i@guoyunhe.me"
   },
+  "license": "MIT",
   "type": "module",
   "exports": {
     ".": {
